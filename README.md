@@ -1,4 +1,4 @@
-# Startup Acquisition Valuation Platform
+# Calculate My Dahej
 
 A machine learning system for estimating startup acquisition valuations in
 **USD** from real business metrics, served through a FastAPI backend.
